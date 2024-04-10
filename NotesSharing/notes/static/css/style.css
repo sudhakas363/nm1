@@ -13,7 +13,7 @@
 }
 
 *::selection{
-    background:#f39c12;
+    background:#04BADE;
     color:#fff;
 }
 
@@ -343,7 +343,7 @@ header #menu{
 
 
 .signup .row form .box:focus{
-    border-color: #f39c12;
+    border-color: #04BADE;
 }
 
 .signup .row form .box::placeholder{
@@ -592,7 +592,7 @@ header #menu{
 
     header .navbar ul li a.active,
     header .navbar ul li a:hover{
-        color:#f39c12;
+        color:#04BADE;
     }
 
     .fa-times{
